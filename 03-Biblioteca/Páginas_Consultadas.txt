@@ -9,3 +9,16 @@ https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
 
 https://blog.cedrotech.com/levantamento-de-requisitos-o-ponto-de-partida-do-projeto-de-software/
 15-09-2020 15:00h
+
+
+https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/req-funcional-rnf_v01.pdf
+27/09/2020 10h
+
+http://www.facom.ufu.br/~bacala/DAW/Aula02-1%20-%20Engenharia%20de%20Requisitos.pdf
+27/09/2020 10h
+
+https://www.ateomomento.com.br/o-que-e-requisito-funcional/
+27/09/2020 10h
+
+https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simples-e-garantir-o-m%C3%ADnimo-de-erros-no-sistema-app-74df2ee241cc
+27/09/2020 10h

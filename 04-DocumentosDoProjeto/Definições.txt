@@ -1,0 +1,9 @@
+PHP
+HTML5
+JS
+CSS / Bootsrap 4
+
+Banco de dados 
+MySQL
+
+Git -pull
