@@ -1,0 +1,20 @@
+Referencia pra qualquer conteudo 
+
+https://www.w3schools.com/
+
+-------------------
+chamada HTTP JS puro
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/
+https://www.kirupa.com/html5/making_http_requests_js.htm
+-------------------
+
+artigo sobre REST
+https://www.devmedia.com.br/rest-tutorial/28912
+
+angular (ferramewnta para ajudar no desenvolvimento do front end) 
+https://angularjs.org/ -- documentação angular js(angular 1.x)
+https://angular.io/ -- documentação angular typescript(angular 2.x ate 10.x)
+
+spring + angular - playslist muito boa que explica todos os conceitos WEB e fa zuma aplicação com angularjs e spring sendo integrados juntos
+vale a pena ver, ele ensina a usar chamada http em js puro, o inicio da aplicacao no spring e depois a integracao com o angular
+https://www.youtube.com/watch?v=dg0aZbP8NAU&list=PLKvsMn7xWutbSELeX5j8CXF2Lxd2cj19J&index=1
