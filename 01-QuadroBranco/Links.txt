@@ -4,3 +4,6 @@ https://www.free-css.com/free-css-templates
 
 
 https://bootsnipp.com/tags/login
+
+Aula diagrama de sequencia
+https://www.youtube.com/watch?v=UVkj3ed0ZuM
