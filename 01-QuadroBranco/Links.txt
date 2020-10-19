@@ -7,7 +7,7 @@ https://bootsnipp.com/tags/login
 
 Aula diagrama de sequencia
 https://www.youtube.com/watch?v=UVkj3ed0ZuM
-
+https://www.ateomomento.com.br/diagrama-de-sequencia-uml/
 
 
 Astah UML
