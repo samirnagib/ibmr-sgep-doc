@@ -1,0 +1,7 @@
+git branch nomebranch
+git checkout (nomebranch) -> troca pro branch
+
+git checkout -b (nomeBranch) cria o branch e ja troca pra ele
+
+
+git push origin nome branch
