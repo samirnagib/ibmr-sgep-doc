@@ -24,7 +24,6 @@ INSERT INTO Escalas values ( null, 'Turno 0h as 09h', '000000', '090000', '01000
 ( null, 'Professores Tarde', '130000', '180000', '010000', '250000'),
 ( null, 'Professores Noite', '180000', '220000', '010000', '250000');
 
-INSERT INTO StatusFuncionario values  (null, 'Ativo'), (null, 'Ferias');
 
 /* PRIVILEGIO 
 

@@ -42,7 +42,7 @@ CREATE TABLE Escalas (
     horaInicial time,
     horaFinal time,
     horaIntervalo time,
-    limiteHorasBanco time,
+    limiteHorasBanco int(5),
     UNIQUE (idEscala, nomeEscala)
 );
 
