@@ -1,0 +1,17 @@
+
+sgep.rf.gd
+https://github.com/deyvisonuchoa/sgep-ws
+https://github.com/insertjuninho/SGEP-FRONT-V1
+
+
+Gestor
+	Marcelo	Silva	marcelo.silva@email.com	Admin@2020	1
+	
+Privilégio: Gestor
+Marcelo	Silva	
+Usuário: marcelo.silva@email.com Senha: Admin@2020
+Privilégio: Sub-Gestor
+Kenneth	Huffman	
+Usuário: ipsum.primis@velvulputateeu.edu Senha: SRA27GAX6TA
+Privilégio: Funcionario
+Usuário: amara@email.com Senha: Admin@2020

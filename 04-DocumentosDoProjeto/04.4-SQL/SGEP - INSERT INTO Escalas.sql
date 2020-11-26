@@ -1,4 +1,4 @@
-INSERT INTO Escalas (nomeEscala,horaInicial,horaFinal,horaIntervalo,limiteHorasBanco) values 
+INSERT INTO escalas (nomeEscala,horaInicial,horaFinal,horaIntervalo,limiteHorasBanco) values 
 ('Turno 0h as 09h', '000000', '090000', '010000', 40),
 ('Turno 9h as 18h', '090000', '180000', '010000', 40),
 ('Turno 18h as 03h', '180000', '030000', '010000', 40),

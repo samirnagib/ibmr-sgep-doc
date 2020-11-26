@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Falha ao logar no sistema</description>
+   <name>TC02 - Login - Falha</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdcde8b4-3d07-4df8-8c63-7f2428890f02</testCaseGuid>
+</TestCaseEntity>
