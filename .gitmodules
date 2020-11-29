@@ -1,0 +1,6 @@
+[submodule "03-Biblioteca/03.1-BackEnd/sgep-ws"]
+	path = 03-Biblioteca/03.1-BackEnd/sgep-ws
+	url = https://github.com/deyvisonuchoa/sgep-ws
+[submodule "03-Biblioteca/03.2-FrontEnd/SGEP-FRONT-V1"]
+	path = 03-Biblioteca/03.2-FrontEnd/SGEP-FRONT-V1
+	url = https://github.com/insertjuninho/SGEP-FRONT-V1

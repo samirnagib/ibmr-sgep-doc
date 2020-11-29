@@ -4,8 +4,16 @@ https://github.com/deyvisonuchoa/sgep-ws
 https://github.com/insertjuninho/SGEP-FRONT-V1
 
 
+
+1,'Master','Funcionario','00297896308','A99',1,0,1,1,1,'master.func@ADMIN.com','Admin@2020',1,8
+
+
+
+
 Gestor
-	Marcelo	Silva	marcelo.silva@email.com	Admin@2020	1
+	Marcelo	Silva	
+	marcelo.silva@email.com
+	Admin@2020
 	
 Privilégio: Gestor
 Marcelo	Silva	
@@ -15,3 +23,21 @@ Kenneth	Huffman
 Usuário: ipsum.primis@velvulputateeu.edu Senha: SRA27GAX6TA
 Privilégio: Funcionario
 Usuário: amara@email.com Senha: Admin@2020
+
+
+
+71	Fletcher	Mckay	
+
+Proin.ultrices@Sed.ca	
+UGV39GFO3XM
+
+
+40	
+Kenneth	Huffman	
+ipsum.primis@velvulputateeu.edu	
+SRA27GAX6TA
+
+	
+41	Holmes	Potts	
+at.iaculis@elitNulla.com	
+QCT05EBR6OX	
